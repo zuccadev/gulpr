@@ -1,6 +1,6 @@
 {
   "name": "zuccadev/gulpr",
-  "description": "A short description of what your package does",
+  "description": "A tool for managing assets built on toop of Gulp.",
   "license": "MIT",
   "authors": [
     {
