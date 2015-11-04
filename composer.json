@@ -1,0 +1,16 @@
+{
+  "name": "zuccadev/gulpr",
+  "description": "A short description of what your package does",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Simone Pescina",
+      "email": "s.pescina@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+    "php": ">=5.3.0",
+    "illuminate/support": "5.1.*"
+  }
+}
